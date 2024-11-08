@@ -1,1 +1,2 @@
 # Landing-Page
+I am learning how to code to become a blockchain developer but starting with full stack development. The odin project is my best bet and resources i ever come across and now i just build a landing page with html and css.
